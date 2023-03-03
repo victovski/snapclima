@@ -8,6 +8,7 @@ como está o clima por lá !!!
 
 Espero ajudar vocês de alguma forma !
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Hello everyone, I bring you an application using HTML5, CSS3 and JavaScript.
 
